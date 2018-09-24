@@ -1,0 +1,24 @@
+_repo: Aurora-Leigh_56621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browning, Elizabeth Barrett
+    alias: Barrett-Browning, Elizabeth
+    birthdate: 1806
+    deathdate: 1861
+    gutenberg_agent_id: '781'
+    url: http://www.gutenberg.org/2009/agents/781
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning
+description: ''
+gutenberg_issued: '2018-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aurora Leigh
+url: http://www.gutenberg.org/ebooks/56621
